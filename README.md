@@ -17,7 +17,9 @@
 
 ## Showcase
 
-Screenshots coming soon
+[![Neofetch](./assets/neofetch.png)](./assets/neofetch.png)
+[![Color Bars](./assets/colorbars.png)](./assets/colorbars.png)
+[![DOOM](./assets/doom.png)](./assets/doom.png)
 
 ## Install
 
